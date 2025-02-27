@@ -197,11 +197,11 @@
 					$lastParent = $parent.parent().children().last();
 
 				breakpoints.on('<=medium', function() {
-					$this.appendTo($lastParent);
+					//$this.appendTo($lastParent);
 				});
 
 				breakpoints.on('>medium', function() {
-					$this.appendTo($parent);
+					//$this.appendTo($parent);
 				});
 
 			});
