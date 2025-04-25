@@ -389,7 +389,7 @@ input, select, textarea {
 		}
 
 			#main .item.span-1 {
-				width: 20em;
+				width: 0em;
 			}
 
 			#main .item.span-2 {
