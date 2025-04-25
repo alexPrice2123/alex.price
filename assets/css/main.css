@@ -389,7 +389,7 @@ input, select, textarea {
 		}
 
 			#main .item.span-1 {
-				width: 0em;
+				width: 20em;
 			}
 
 			#main .item.span-2 {
@@ -811,7 +811,7 @@ input, select, textarea {
 			.poptrox-popup {
 				background: #0a0f1c;
 				box-shadow: 0px 0px 30px 10px rgba(8, 11, 19, 0.85);
-				border: solid 2.5px #000;
+				border: solid 2.5px #282828;
 				-moz-box-sizing: content-box;
 				-webkit-box-sizing: content-box;
 				-ms-box-sizing: content-box;
