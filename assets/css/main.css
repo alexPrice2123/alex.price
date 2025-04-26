@@ -129,7 +129,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		font-family: 'Anonymous Pro';
+		font-family: 'Anonymous Pro', monospace;
 		font-weight: 400;
 		padding: 0;
 		font-size: 13pt;
