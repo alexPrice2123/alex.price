@@ -371,7 +371,7 @@ input, select, textarea {
 		}
 
 			#main .items > :last-child {
-				border-right: solid 10px #282828;
+				border-right: solid 10px #222;
 			}
 
 		#main .item {
@@ -385,7 +385,7 @@ input, select, textarea {
 			flex-shrink: 0;
 			margin: 5px;
 			height: 16em;
-			box-shadow: 0 0 0 10px #282828;
+			box-shadow: 0 0 0 10px #222;
 		}
 
 			#main .item.span-1 {
@@ -649,7 +649,7 @@ input, select, textarea {
 			display: inline-block;
 			margin-left: 1em;
 			padding-left: 1em;
-			border-left: solid 1px rgba(40, 40, 40, 0.25);
+			border-left: solid 1px rgba(20, 20, 20, 0.25);
 			line-height: 1em;
 		}
 
