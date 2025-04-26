@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600");
+@import url("https://fonts.googleapis.com/css?family=Anonymous+Pro:400,600");
 @import url("fontawesome-all.min.css");
 
 /*
@@ -129,7 +129,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		font-family: 'Source Sans Pro';
+		font-family: 'Anonymous Pro', monospace;
 		font-weight: 400;
 		padding: 0;
 		font-size: 13pt;
