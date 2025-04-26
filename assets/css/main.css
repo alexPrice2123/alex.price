@@ -441,7 +441,7 @@ input, select, textarea {
 					position: absolute;
 					bottom: 0;
 					left: 0;
-					background: rgba(18, 21, 29, 0.85);
+					background: rgba(20, 20, 20, 0.85);
 					width: 100%;
 					padding: 1em;
 					font-weight: 400;
@@ -715,8 +715,8 @@ input, select, textarea {
 
 	.poptrox-popup {
 		background: #1a1f2c;
-		background: rgba(18, 21, 29, 0.9);
-		box-shadow: 0px 0px 0px 10px #fff, 0px 10px 60px 10px rgba(8, 11, 19, 0.55);
+		background: rgba(20, 20, 20, 0.9);
+		box-shadow: 0px 0px 0px 10px #fff, 0px 10px 60px 10px rgba(10, 10, 10, 0.55);
 		cursor: default;
 	}
 
@@ -737,7 +737,7 @@ input, select, textarea {
 			bottom: 0;
 			left: 0;
 			background: #1a1f2c;
-			background: rgba(18, 21, 29, 0.85);
+			background: rgba(20, 20, 20, 0.85);
 			display: block;
 			width: 100%;
 			line-height: 75px;
