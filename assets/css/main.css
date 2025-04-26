@@ -181,8 +181,8 @@ input, select, textarea {
 	}
 
 	strong, b {
-		color: #fff;
-		color: rgba(255, 255, 255, 0.85);
+		color: #c4bc1c;
+		color: rgba(196, 188, 28, 0.85);
 		font-weight: 600;
 	}
 
@@ -716,7 +716,7 @@ input, select, textarea {
 	.poptrox-popup {
 		background: #1a1f2c;
 		background: rgba(20, 20, 20, 0.9);
-		box-shadow: 0px 0px 0px 10px #fff, 0px 10px 60px 10px rgba(10, 10, 10, 0.55);
+		box-shadow: 0px 0px 0px 10px #222, 0px 10px 60px 10px rgba(10, 10, 10, 0.55);
 		cursor: default;
 	}
 
@@ -811,7 +811,7 @@ input, select, textarea {
 			.poptrox-popup {
 				background: #0a0f1c;
 				box-shadow: 0px 0px 30px 10px rgba(8, 11, 19, 0.85);
-				border: solid 2.5px #fff;
+				border: solid 2.5px #222;
 				-moz-box-sizing: content-box;
 				-webkit-box-sizing: content-box;
 				-ms-box-sizing: content-box;
